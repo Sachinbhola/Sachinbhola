@@ -1,9 +1,9 @@
--  Hi  , I’m Sachin Bhola
+<h1>  Hi  , I’m Sachin Bhola</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/453128/screenshots/3849814/untitled-12.gif"/>
    
 - 🌱 I’m currently working on android projects using kotlin and also use other technologies like
-<ul>
+<ul type="square" align ="centre">
   <li> Flutter</li>
   <li> ARcore</li>
   <li> Room persistence library</li>
