@@ -32,11 +32,9 @@
 
 <h3 align="left">My Interests:</h3>
 
-<img align="left" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/image_processing20191109-26456-1ng61l6.gif?raw=true"/>
+<img align="left" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/image_processing20191109-26456-1ng61l6.gif?raw=true"/><img align="right" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/virtual-reality.gif"/>
 
-<img align="right" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/virtual-reality.gif"/>
-
-<hr>
+<p></br></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbhola&layout=compact&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
 
