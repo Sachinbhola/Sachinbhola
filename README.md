@@ -1,4 +1,4 @@
-<h1>  Hi  , I’m Sachin Bhola</h1>
+<h1>  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I’m Sachin Bhola</h1>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:blue">
 
@@ -34,6 +34,12 @@
 <img align="left" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/image_processing20191109-26456-1ng61l6.gif?raw=true"/>
 
 <img align="right" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/virtual-reality.gif"/>
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbhola&layout=compact&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
+
+[![Sachinbhola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachinbhola&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
 
 <!---
 Sachinbhola/Sachinbhola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
