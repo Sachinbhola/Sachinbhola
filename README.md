@@ -35,8 +35,6 @@
 
 <img align="right" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/virtual-reality.gif"/>
 
-## &#x1f4c8; My GitHub Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbhola&layout=compact&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
 
 [![Sachinbhola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachinbhola&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
