@@ -1,4 +1,4 @@
-<h1>  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I’m Sachin Bhola</h1>
+<h1>  Hi,I’m Sachin Bhola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:blue">
 
