@@ -30,17 +30,20 @@
 
 <hr>
 
-<h3 align="left">My Interests:</h3>
+<h3 align="left" margin="50px">My Stats:</h3>
 
-<img align="left" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/image_processing20191109-26456-1ng61l6.gif?raw=true"/><img align="right" width="400" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/virtual-reality.gif"/>
 
-<p margin: 50px;>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbhola&layout=compact&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbhola&layout=compact&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
 
 [![Sachinbhola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachinbhola&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
 
-</p>
+<h3 align="left">My Interests:</h3>
+
+Android Development | Augumented Reality
+------------ | -------------
+<img align="left" width="450" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/image_processing20191109-26456-1ng61l6.gif?raw=true"/> | <img align="right" width="450" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/virtual-reality.gif"/>
+
+
 <!---
 Sachinbhola/Sachinbhola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
