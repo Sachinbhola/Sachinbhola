@@ -67,6 +67,7 @@ Android Development | Augumented Reality
 ------------ | -------------
 <img align="left" width="450" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/image_processing20191109-26456-1ng61l6.gif?raw=true"/> | <img align="right" width="450" src="https://github.com/Sachinbhola/Sachinbhola/blob/main/virtual-reality.gif"/>
 
+<hr>
 <h2 align="center" margin="50px">My Stats:</br></h2>
 <div align="center">
 
