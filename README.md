@@ -6,7 +6,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:blue">
 
-<p><img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/453128/screenshots/3849814/untitled-12.gif"/></br></p>
+<p><img align="right" alt="Coding" width="450" height="300" src="https://cdn.dribbble.com/users/453128/screenshots/3849814/untitled-12.gif"/></br></p>
    
 - 🌱 I’m currently working on Native Android projects using kotlin and also use other technologies like
 <ul type="square" align ="centre">
