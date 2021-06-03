@@ -6,7 +6,7 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:blue">
 
-<p><img align="right" alt="Coding" width="550" height="350" src="https://cdn.dribbble.com/users/453128/screenshots/3849814/untitled-12.gif"/></br></p>
+<p><img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/453128/screenshots/3849814/untitled-12.gif"/></br></p>
    
 - 🌱 I’m currently working on Native Android projects using kotlin and also use other technologies like
 <ul type="square" align ="centre">
@@ -76,5 +76,5 @@ Android Development | Augumented Reality
 [![Sachinbhola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachinbhola&theme=radical)](https://github.com/Sachinbhola/github-readme-stats)
 </div>
 
-<img alt="Sachin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachinbhola&bg_color=001100&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Sachin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachinbhola&bg_color=251025&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
