@@ -10,10 +10,12 @@
    
 - 🌱 I’m currently working on Native Android projects using kotlin and also use other technologies like
 <ul type="square" align ="centre">
-  <li> Flutter</li>
+  <li> Retrofit</li>
+  <li> Moshi</li>
   <li> ARcore</li>
   <li> Room</li>
-  <li>Glide</li>
+  <li> Flutter</li>
+  <li> Glide</li>
   <li> Volley</li>
   <li> Blender 3D </li>
   <li> UI/UX</li>
