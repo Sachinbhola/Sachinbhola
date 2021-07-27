@@ -8,10 +8,9 @@
 
 <p><img align="right" alt="Coding" width="500" height="320" src="https://cdn.dribbble.com/users/453128/screenshots/3849814/untitled-12.gif"/></br></p>
    
-- 🌱 I’m currently working on Native Android projects using kotlin and also use other technologies like
+- 🌱 I’m currently working on Native Android projects using kotlin and Java and also use other technologies like
 <ul type="square" align ="centre">
   <li> Retrofit</li>
-  <li> Moshi</li>
   <li> ARcore</li>
   <li> Room</li>
   <li> Flutter</li>
@@ -22,7 +21,7 @@
   
 </ul>
 
-- 💞️ Problem solving and Critical Thinking has always been my usp and thus here i am looking forward to become an awesome programmer 
+- 💞️ Problem solving and Creativity has always been my usp and thus here i am looking forward to become an awesome programmer 
    while pursuing my engineering in the field of Information Technology from
    -University School of Information, Communication, and Technology.
 
