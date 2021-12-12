@@ -28,9 +28,11 @@
 - 📫 How to reach me
 <p align="center" >
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/sachinbhola?color=236ad3&labelColor=1155ba&&logo=github&label=Follow"/>
-    <a href = "https://www.linkedin.com/in/sachin-bhola-790bab12a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
-    <a href = "https://discord.gg/JaF7nGSp"><img src="https://img.shields.io/badge/-Discord-7289DA?&logoColor=white&logo=discord"/></a></br>
-    <a href = "sachinbhola947@gmail.com"><img src="https://img.shields.io/badge/sachinbhola947%40gmail.com%20-red"/></a>
+    <a href = "https://www.linkedin.com/in/sachin-bhola-790bab12a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue.svg?&logo=linkedin&logoColor=white"/></a>
+    <a href = "https://discord.gg/JaF7nGSp"><img src="https://img.shields.io/badge/-Discord-blue?&logoColor=white&logo=discord"/></a></br>
+    <a href = "https://leetcode.com/sachinbhola947/"><img src="https://img.shields.io/badge/-Leetcode-orange?&logoColor=white&logo=leetcode"/></a>
+    <a href = "https://auth.geeksforgeeks.org/user/sachinbhola947/profile"><img src="https://img.shields.io/badge/-GFG-orange?&logoColor=white&logo=geeksforgeeks"/></a>
+    <a href = "sachinbhola947@gmail.com"><img src="https://img.shields.io/badge/-Gmail-orange?&logoColor=white&logo=Gmail"/></a>
     
 </p>
  
@@ -60,8 +62,6 @@ Android Development | Augumented Reality
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
     <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white"/>
     <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?logo=adobexd&logoColor=white"/>
-    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white"/>
 
 </p>
